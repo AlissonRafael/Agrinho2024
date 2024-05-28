@@ -27,3 +27,11 @@ background-color: rgb(165, 23, 23);
     padding: 25px;
 
 }
+.cabecalho_menu-listaitem{
+
+    display: inline;
+
+    text-transform: uppercase;
+    
+    margin-left: 10px;
+}
