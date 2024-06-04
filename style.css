@@ -52,7 +52,9 @@ background-color: rgb(91, 107, 102);
     display: flex;
 
     justify-content: center;
-    
+
+    align-items: center;
+
 }
 .sobre_imagem{
 
