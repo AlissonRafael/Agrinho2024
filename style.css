@@ -50,12 +50,10 @@ background-color: rgb(91, 107, 102);
 
 .sobre_imagem{
 
-    width: 100px;
+    width: 300px;
 
-    height: 100px;
+    height: 300px;
 
-    border-radius: 10px;
+    padding: 20px;
 
-    padding: 10px;
-    
 }
