@@ -47,3 +47,15 @@ background-color: rgb(91, 107, 102);
     margin-left: 15px;
 
 }
+
+.sobre_imagem{
+
+    width: 100px;
+
+    height: 100px;
+
+    border-radius: 10px;
+
+    padding: 10px;
+    
+}
