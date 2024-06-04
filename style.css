@@ -22,18 +22,20 @@ background-color: rgb(165, 23, 23);
 
 .cabecalho_imagem{
 
-    width: 200px;
+    width: 250px;
 
-    height: 200px;
+    height: 250px;
 
-    border-radius: 50%;
+    border-radius: 55%;
 
-    padding: 25px;
+    padding: 30px;
 
 }
 
 .cabecalho_menu-lista{
-    margin: 20px;
+
+    margin: 25px;
+
 }
 
 .cabecalho_menu-listaitem{
@@ -42,6 +44,6 @@ background-color: rgb(165, 23, 23);
 
     text-transform: uppercase;
 
-    margin-left: 10px;
+    margin-left: 15px;
 
 }
