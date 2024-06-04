@@ -47,7 +47,13 @@ background-color: rgb(91, 107, 102);
     margin-left: 15px;
 
 }
+.sobre{
 
+    display: flex;
+
+    justify-content: center;
+    
+}
 .sobre_imagem{
 
     width: 300px;
